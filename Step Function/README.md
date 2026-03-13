@@ -27,7 +27,7 @@ This project creates:
 1. Step Function triggers Lambda
 2. Lambda starts EC2 instance
 3. Step Function waits 60 seconds
-4. Lambda stops EC2 instance
+4. Lambda stops EC2 instance.
 
 ## Prerequisites
 
